@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Тестовый проект 1");
         System.out.println("");
         // новый комментарий
+        System.out.println();
+        System.out.println();
     }
 }
